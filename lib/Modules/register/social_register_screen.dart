@@ -109,6 +109,7 @@ class _shopRegisterScreenState extends State<shopRegisterScreen> {
                               {
                                 return 'userName must not be empty';
                               }
+                              //8888
                             },
                             type: TextInputType.name,
                             hintText: 'name',
